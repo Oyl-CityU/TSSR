@@ -1,0 +1,100 @@
+1	Wilms Tumor	htr2a-as1(antisense hTR)	0.030060807589355865
+2	Wilms Tumor	zfas1	0.02987015995297849
+3	Huntington Disease	uc.283+a	0.029864194917027843
+4	Melanoma	hulc	0.027075172729946965
+5	Wilms Tumor	mir155hg	0.026630952974121585
+6	Melanoma	meg3	0.025964817650139343
+7	Coronary Disease	mir155hg	0.025560788162824928
+8	Wilms Tumor	har1b(har1r)	0.02531965136153998
+9	Leukemia, Lymphocytic, Chronic, B-Cell	uc.160+	0.01725144232494382
+10	Meningioma	uc.160+	0.016954868374489823
+11	Uterine Cervical Neoplasms	uc.346+	0.01675018687026697
+12	Wilms Tumor	cdkn1c-as	0.016477850003090808
+13	Parkinson Disease	fmr1-as1(ASFMR1)	0.015559413029323815
+14	Prostatic Neoplasms	ahif	0.013275311334988465
+15	Wilms Tumor	spry4-it1	0.013261815063886987
+16	Atherosclerosis	loc285194	0.013118188552141644
+17	Prostatic Neoplasms	21a	0.01296957143839123
+18	Carcinoma, Hepatocellular	21a	0.01281463718695424
+19	Leukemia, Lymphocytic, Chronic, B-Cell	anti-nos2a	0.012155100664045938
+20	Lymphoma	uc283+a	0.012124608876981628
+21	Pheochromocytoma	bace1as	0.012076516803461154
+22	Ovarian Neoplasms	lincrna-p21	0.012066448483143467
+23	Lymphoma	lsinct5	0.01203810209318113
+24	Breast Neoplasms	heih	0.011953463963605287
+25	Wilms Tumor	uc.21	0.01186517037103878
+26	Breast Neoplasms	spry4-it1	0.011572145708776467
+27	Breast Neoplasms	bc1	0.011520765310009966
+28	Urinary Bladder Neoplasms	uc.346+	0.011503020923054117
+29	Cardiovascular Diseases	anril	0.011334837262348905
+30	Breast Neoplasms	ncrna-ccnd1	0.011208524047882628
+31	Huntington Disease	uc.346+	0.01110280130095173
+32	Huntington Disease	uc.72	0.011087813576888716
+33	Bipolar Disorder	uc283+a	0.011079909989822794
+34	Wilms Tumor	pvt1	0.010387279490447963
+35	Wilms Tumor	prncr1	0.010387279490447963
+36	Ovarian Neoplasms	gas5	0.010312605354778901
+37	Gastrointestinal Stromal Tumors	p53 mrna	0.010045538554362009
+38	Liver Neoplasms	heih	0.009846163119151178
+39	Prostatic Neoplasms	bc1	0.009744132247463044
+40	Wilms Tumor	uc.73a	0.009719294819332912
+41	Wilms Tumor	uc.283+a	0.009292654885380698
+42	Parotid Neoplasms	sra	0.0092841133177911
+43	Down Syndrome	hy1	0.009253371872131006
+44	Lymphoma	hy1	0.00924674461202537
+45	Wilms Tumor	mdm2-as	0.009106559675755427
+46	Wilms Tumor	pca3	0.009106559675755427
+47	Wilms Tumor	pcat1	0.009106559675755427
+48	Kidney Neoplasms	xist	0.00883161333870604
+49	Diabetes Mellitus, Type 2	ahif	0.00881923388093782
+50	Coronary Disease	uc.159	0.008769365073514243
+51	Wilms Tumor	dj974n19.1	0.008766972954699012
+52	Breast Neoplasms	xist	0.00876179777013285
+53	Carcinoma, Hepatocellular	ncrna-ccnd1	0.008649737827306575
+54	Diabetes Mellitus, Type 2	hy3	0.008637821924708633
+55	Pheochromocytoma	bc1	0.008627814643138177
+56	Wilms Tumor	lsinct5	0.008574509747856623
+57	Wilms Tumor	igf2as	0.008441776158300995
+58	Carcinoma, Squamous Cell	sra	0.008422508148774852
+59	Cardiovascular Diseases	hy1	0.008413625389465508
+60	Lymphoma	bc1	0.00837123314619901
+61	Stroke	h19	0.008301657934124289
+62	Precursor Cell Lymphoblastic Leukemia-Lymphoma	anril	0.00821013938682459
+63	Urinary Bladder Neoplasms	uc.159	0.008135551005982187
+64	Meningioma	uc.159	0.008108416687980926
+65	Leukemia, Myeloid, Acute	bc1	0.0080782350178878
+66	Colorectal Neoplasms	hulc	0.007927211995168116
+67	Leukemia, Lymphocytic, Chronic, B-Cell	uc.159	0.007923913287027823
+68	Ovarian Neoplasms	cdkn1c-as	0.007865410705598222
+69	Prostatic Neoplasms	hulc	0.00784726575847476
+70	Stroke	hy3	0.0078057994055128485
+71	Uterine Cervical Neoplasms	hotair	0.007751823950028795
+72	Precursor Cell Lymphoblastic Leukemia-Lymphoma	7sk	0.007702535903639277
+73	Colorectal Neoplasms	meg3	0.007629116457457872
+74	Prostatic Neoplasms	meg3	0.007588697278938437
+75	Huntington Disease	e2f4 antisense	0.007563112849831294
+76	Huntington Disease	ba318c17.1	0.007563112849831294
+77	Diabetes Mellitus	h19	0.007530226000378079
+78	Fragile X Syndrome	hotair	0.0075257691164323515
+79	Breast Neoplasms	gas5	0.007514531360474662
+80	Diabetes Mellitus, Type 2	DeltaMYCN	0.007441224154265875
+81	Diabetes Mellitus, Type 2	uc.279	0.007441224154265875
+82	Diabetes Mellitus, Type 2	ndm29	0.007441224154265875
+83	Wilms Tumor	mycnos	0.007366222777650102
+84	Beckwith-Wiedemann Syndrome	hotair	0.0073195937231094466
+85	Tongue Neoplasms	anril	0.007278988286813452
+86	Parkinson Disease	hotair	0.007165633170927646
+87	Uterine Cervical Neoplasms	pvt1	0.007116740075161605
+88	Uterine Cervical Neoplasms	prncr1	0.007116740075161605
+89	Diabetes Mellitus, Type 2	ncran	0.007085617705244597
+90	Endometrial Neoplasms	igf2as	0.007036587483025688
+91	Melanoma	hotair	0.006944038361358937
+92	Tongue Neoplasms	dj974n19.1	0.006915141673682852
+93	Autistic Disorder	mycnos	0.0068996943124320555
+94	Wilms Tumor	uc.460	0.00684718126565326
+95	Diabetes Mellitus	hy3	0.006818645223442574
+96	Pituitary Neoplasms	air	0.006772494640393143
+97	Meningioma	uc.73a	0.00674225880330083
+98	Carcinoma, Hepatocellular	xist	0.006719934990380333
+99	Prader-Willi Syndrome	hy3	0.006715642694261688
+100	Wilms Tumor	uc.446	0.006707618941002788
